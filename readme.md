@@ -13,3 +13,4 @@ This is a small test project for Solana faucet verification and learning blockch
 
 ## Author
 WaterTrust
+Added more project description
